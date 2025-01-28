@@ -12,6 +12,10 @@
 
 ###
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandermokeichuk&label=Profile%20views&color=0e75b6&style=flat" alt="alexandermokeichuk" /> </p>
+
+###
+
 - 🔭 I’m currently working on [crm-shoro](https://github.com/sydykovkanat/crm-shoro)
 
 - 🌱 I’m currently learning ****React Native** and **Next.js**!**
@@ -88,8 +92,6 @@
 <img src="https://raw.githubusercontent.com/alexandermokeichuk/alexandermokeichuk/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandermokeichuk&label=Profile%20views&color=0e75b6&style=flat" alt="alexandermokeichuk" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandermokeichuk" alt="alexandermokeichuk" /></a> </p>
 
