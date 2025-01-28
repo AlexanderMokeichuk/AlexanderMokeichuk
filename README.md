@@ -4,6 +4,10 @@
 
 ###
 
+<img align="right" height="150" src="https://i.pinimg.com/736x/70/7f/10/707f10789ce4d162f7d0d4c876ab6f4f.jpg"  />
+
+###
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+a+frontend+developer;I+am+from+Kyrgyzstan🇰🇬;I+love+coding;JavaScript+rocks!&speed=40)](https://git.io/typing-svg)
 
 ###
