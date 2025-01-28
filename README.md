@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/736x/70/7f/10/707f10789ce4d162f7d0d4c876ab6f4f.jpg"  />
+<img align="right" height="150" src="images/logo.jpg" />
 
 ###
 
