@@ -1,98 +1,206 @@
-<h1 align="center">Hi there, I'm Alexander
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-</h1>
+<div align="center">
 
-###
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Alexander%20Mokeichuk&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<img align="right" height="150" src="images/logo.jpg" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A277FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Frontend+%2F+Fullstack+Developer;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Building+scalable+microservices)](https://git.io/typing-svg)
 
-###
+<p align="center">
+  <a href="https://t.me/alexMokei"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/alexander-mokeichuk-b36212324/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:alexandermokeichuk2001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/alexandermokeichuk/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+a+frontend+developer;I+am+from+Kyrgyzstan🇰🇬;I+love+coding;JavaScript+rocks!&speed=40)](https://git.io/typing-svg)
+<img src="https://komarev.com/ghpvc/?username=alexandermokeichuk&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
 
-###
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandermokeichuk&label=Profile%20views&color=0e75b6&style=flat" alt="alexandermokeichuk" /> </p>
-
-###
-
-- 🔭 I’m currently working on [crm-shoro](https://github.com/sydykovkanat/crm-shoro)
-
-- 🌱 I’m currently learning ****React Native** and **Next.js**!**
-
-- 👯 I’m looking to collaborate on [Tasker](https://github.com/sydykovkanat?tab=repositories)
-
-- 💬 Ask me about ****React Native**, **Next.js**, **JavaScript**, or anything related to **frontend development**!**
-
-- 📫 How to reach me **alexandermokeichuk2001@gmail.com**
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="30" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="prisma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sql" height="30" alt="sql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=reactnative" height="30" alt="reactnative logo" />
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderMokeichuk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&custom_title=See%20how%20I%20look" height="190" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexanderMokeichuk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&custom_title=I%20frequently%20use%20it." height="190" alt="languages graph"  />
+## About Me
+
+<table>
+<tr>
+<td width="65%">
+
+**Location:** Bishkek, Kyrgyzstan 🇰🇬  
+**Role:** Frontend / Fullstack Developer  
+**Company:** Shoro  
+**Code:** TypeScript • JavaScript • SQL
+
+**Technologies:**
+- **Frontend:** React, Next.js, React Native
+- **Backend:** Node.js, Express, NestJS
+- **Databases:** PostgreSQL, MongoDB, MySQL
+- **DevOps:** Docker, Prisma, Git
+
+**Current Focus:** Microservices Architecture  
+**Challenge:** Building scalable systems
+
+<br/>
+
+I'm a developer who loves building scalable web applications with modern technologies. Currently working on **CRM systems** and **mobile apps** for water delivery logistics at Shoro, while exploring microservices architecture and containerization.
+
+</td>
+<td width="35%">
+
+<img src="https://github.com/AlexanderMokeichuk/AlexanderMokeichuk/blob/main/images/logo.jpg?raw=true" width="100%" style="border-radius: 10px;"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,nestjs,redux&perline=8" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=prisma,mongodb,postgres,mysql,docker,git,linux,vim&perline=8" />
+</p>
+
+<details>
+<summary><b>Full Technology Stack</b></summary>
+<br/>
+
+**Frontend:**
+- React, Next.js, TypeScript
+- Redux Toolkit, React Router
+- Material-UI, Tailwind CSS, Bootstrap
+- React Native, Expo
+
+**Backend:**
+- Node.js, Express.js, NestJS
+- Prisma ORM, TypeORM
+- RESTful APIs, JWT Authentication
+
+**Databases:**
+- PostgreSQL, MongoDB, MySQL
+- Firebase Realtime Database
+
+**DevOps & Tools:**
+- Docker, Docker Compose
+- Git, GitHub Actions
+- Arch Linux, Hyprland
+- Conventional Commits
+
+</details>
+
+---
+
+## Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### Store Logistics
+<a href="https://github.com/AlexanderMokeichuk/store-logistics">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexandermokeichuk&repo=store-logistics&theme=tokyonight&hide_border=true" width="100%"/>
+</a>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microservices-8B5CF6?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+**Microservices architecture** for inventory management with automated action logging. Built with Node.js, Express, Prisma ORM, and Docker Compose orchestration.
+
+</td>
+<td width="50%" valign="top">
+
+### JWT Authentication
+<a href="https://github.com/AlexanderMokeichuk/JWT_Authentication">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexandermokeichuk&repo=JWT_Authentication&theme=tokyonight&hide_border=true" width="100%"/>
+</a>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Clean_Code-8B5CF6?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+</p>
+
+**Secure authentication API** with access/refresh token rotation. Clean architecture with DTO validation, built using Express.js, TypeScript, and Prisma ORM.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### GitSearch
+<a href="https://github.com/AlexanderMokeichuk/GitSearch">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexandermokeichuk&repo=GitSearch&theme=tokyonight&hide_border=true" width="100%"/>
+</a>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_API-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+**GitHub user search** application with repository browsing and filtering. Built with React, TypeScript, and direct GitHub API integration with Vite.
+
+</td>
+<td width="50%" valign="top">
+
+### TODO-LIST
+<a href="https://github.com/AlexanderMokeichuk/TODO-LIST">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexandermokeichuk&repo=TODO-LIST&theme=tokyonight&hide_border=true" width="100%"/>
+</a>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
+
+**Task management app** with real-time Firebase Realtime Database sync. Features Redux Toolkit state management and full CRUD operations.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## GitHub Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandermokeichuk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandermokeichuk&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandermokeichuk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/alexander-mokeichuk-b36212324/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://t.me/alexMokei" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-  <a href="https://www.instagram.com/alexandermokeichuk/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
+## Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexandermokeichuk/alexandermokeichuk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexandermokeichuk/alexandermokeichuk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alexandermokeichuk/alexandermokeichuk/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+<div align="center">
+
+## Let's Connect
+
+<p>
+  <a href="https://t.me/alexMokei"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/alexander-mokeichuk-b36212324/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/alexandermokeichuk/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:alexandermokeichuk2001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
+
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/alexandermokeichuk/alexandermokeichuk/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandermokeichuk" alt="alexandermokeichuk" /></a> </p>
-
-###
