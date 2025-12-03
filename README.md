@@ -91,77 +91,35 @@ I'm a developer who loves building scalable web applications with modern technol
 
 ## Featured Projects
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+### 🏪 [Store Logistics](https://github.com/AlexanderMokeichuk/store-logistics)
 
-### Store Logistics
-<a href="https://github.com/AlexanderMokeichuk/store-logistics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexandermokeichuk&repo=store-logistics&theme=tokyonight&hide_border=true" width="100%"/>
-</a>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Microservices-8B5CF6?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Microservices-8B5CF6?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 
 **Microservices architecture** for inventory management with automated action logging. Built with Node.js, Express, Prisma ORM, and Docker Compose orchestration.
 
-</td>
-<td width="50%" valign="top">
+---
 
-### JWT Authentication
-<a href="https://github.com/AlexanderMokeichuk/JWT_Authentication">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexandermokeichuk&repo=JWT_Authentication&theme=tokyonight&hide_border=true" width="100%"/>
-</a>
+### 🔐 [JWT Authentication](https://github.com/AlexanderMokeichuk/JWT_Authentication)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Clean_Code-8B5CF6?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Clean_Code-8B5CF6?style=for-the-badge&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 
 **Secure authentication API** with access/refresh token rotation. Clean architecture with DTO validation, built using Express.js, TypeScript, and Prisma ORM.
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%" valign="top">
+### 🔍 [GitSearch](https://github.com/AlexanderMokeichuk/GitSearch)
 
-### GitSearch
-<a href="https://github.com/AlexanderMokeichuk/GitSearch">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexandermokeichuk&repo=GitSearch&theme=tokyonight&hide_border=true" width="100%"/>
-</a>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_API-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_API-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 
 **GitHub user search** application with repository browsing and filtering. Built with React, TypeScript, and direct GitHub API integration with Vite.
 
-</td>
-<td width="50%" valign="top">
+---
 
-### TODO-LIST
-<a href="https://github.com/AlexanderMokeichuk/TODO-LIST">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexandermokeichuk&repo=TODO-LIST&theme=tokyonight&hide_border=true" width="100%"/>
-</a>
+### ✅ [TODO-LIST](https://github.com/AlexanderMokeichuk/TODO-LIST)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
 **Task management app** with real-time Firebase Realtime Database sync. Features Redux Toolkit state management and full CRUD operations.
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -169,12 +127,10 @@ I'm a developer who loves building scalable web applications with modern technol
 
 ## GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandermokeichuk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandermokeichuk&theme=tokyonight&hide_border=true"/>
+![](https://github-readme-stats.vercel.app/api?username=alexandermokeichuk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=alexandermokeichuk&theme=tokyonight&hide_border=true)
 
-<br/><br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandermokeichuk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandermokeichuk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
@@ -182,11 +138,7 @@ I'm a developer who loves building scalable web applications with modern technol
 
 ## Contribution Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexandermokeichuk/alexandermokeichuk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexandermokeichuk/alexandermokeichuk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alexandermokeichuk/alexandermokeichuk/output/github-contribution-grid-snake.svg">
-</picture>
+![](https://raw.githubusercontent.com/alexandermokeichuk/alexandermokeichuk/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
