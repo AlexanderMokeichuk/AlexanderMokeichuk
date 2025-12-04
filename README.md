@@ -98,7 +98,7 @@ containerization.
 
 ## Featured Projects
 
-### 🏪 [Store Logistics](https://github.com/AlexanderMokeichuk/store-logistics)
+### [Store Logistics](https://github.com/AlexanderMokeichuk/store-logistics)
 
 <img src="https://img.shields.io/badge/Microservices-8B5CF6?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 
@@ -107,7 +107,7 @@ Prisma ORM, and Docker Compose orchestration.
 
 ---
 
-### 🔐 [JWT Authentication](https://github.com/AlexanderMokeichuk/JWT_Authentication)
+### [JWT Authentication](https://github.com/AlexanderMokeichuk/JWT_Authentication)
 
 <img src="https://img.shields.io/badge/Clean_Code-8B5CF6?style=for-the-badge&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 
