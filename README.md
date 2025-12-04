@@ -147,7 +147,7 @@ CRUD operations.
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/alexandermokeichuk/alexandermokeichuk/output/github-snake-dark.svg)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alexandermokeichuk&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
