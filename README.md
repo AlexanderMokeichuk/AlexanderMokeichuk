@@ -29,6 +29,7 @@
 **Code:** TypeScript • JavaScript • SQL
 
 **Technologies:**
+
 - **Frontend:** React, Next.js, React Native
 - **Backend:** Node.js, Express, NestJS
 - **Databases:** PostgreSQL, MongoDB, MySQL
@@ -39,7 +40,9 @@
 
 <br/>
 
-I'm a developer who loves building scalable web applications with modern technologies. Currently working on **CRM systems** and **mobile apps** for water delivery logistics at Shoro, while exploring microservices architecture and containerization.
+I'm a developer who loves building scalable web applications with modern technologies. Currently working on **CRM
+systems** and **mobile apps** for water delivery logistics at Shoro, while exploring microservices architecture and
+containerization.
 
 </td>
 <td width="35%">
@@ -65,21 +68,25 @@ I'm a developer who loves building scalable web applications with modern technol
 <br/>
 
 **Frontend:**
+
 - React, Next.js, TypeScript
 - Redux Toolkit, React Router
 - Material-UI, Tailwind CSS, Bootstrap
 - React Native, Expo
 
 **Backend:**
+
 - Node.js, Express.js, NestJS
 - Prisma ORM, TypeORM
 - RESTful APIs, JWT Authentication
 
 **Databases:**
+
 - PostgreSQL, MongoDB, MySQL
 - Firebase Realtime Database
 
 **DevOps & Tools:**
+
 - Docker, Docker Compose
 - Git, GitHub Actions
 - Arch Linux, Hyprland
@@ -95,7 +102,8 @@ I'm a developer who loves building scalable web applications with modern technol
 
 <img src="https://img.shields.io/badge/Microservices-8B5CF6?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 
-**Microservices architecture** for inventory management with automated action logging. Built with Node.js, Express, Prisma ORM, and Docker Compose orchestration.
+**Microservices architecture** for inventory management with automated action logging. Built with Node.js, Express,
+Prisma ORM, and Docker Compose orchestration.
 
 ---
 
@@ -103,7 +111,8 @@ I'm a developer who loves building scalable web applications with modern technol
 
 <img src="https://img.shields.io/badge/Clean_Code-8B5CF6?style=for-the-badge&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 
-**Secure authentication API** with access/refresh token rotation. Clean architecture with DTO validation, built using Express.js, TypeScript, and Prisma ORM.
+**Secure authentication API** with access/refresh token rotation. Clean architecture with DTO validation, built using
+Express.js, TypeScript, and Prisma ORM.
 
 ---
 
@@ -111,7 +120,8 @@ I'm a developer who loves building scalable web applications with modern technol
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_API-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 
-**GitHub user search** application with repository browsing and filtering. Built with React, TypeScript, and direct GitHub API integration with Vite.
+**GitHub user search** application with repository browsing and filtering. Built with React, TypeScript, and direct
+GitHub API integration with Vite.
 
 ---
 
@@ -119,7 +129,8 @@ I'm a developer who loves building scalable web applications with modern technol
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-**Task management app** with real-time Firebase Realtime Database sync. Features Redux Toolkit state management and full CRUD operations.
+**Task management app** with real-time Firebase Realtime Database sync. Features Redux Toolkit state management and full
+CRUD operations.
 
 ---
 
@@ -136,9 +147,7 @@ I'm a developer who loves building scalable web applications with modern technol
 
 ---
 
-## Contribution Activity
-
-![](https://raw.githubusercontent.com/alexandermokeichuk/alexandermokeichuk/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/alexandermokeichuk/alexandermokeichuk/output/github-snake-dark.svg)
 
 ---
 
